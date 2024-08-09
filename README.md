@@ -1,14 +1,11 @@
-## Hi there 👋
+## Hello World 👋
 
 <!--
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning JavaScript
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 🪅 My toolkit includes HTML, PHP, CSS, SQL
-- 😄 Pronouns: She/They - Ela/Dela
-- ⚡ Fun fact: ...
 -->
+
+- 🌱 I’m currently learning **JavaScript**
+- 🪅 **My toolkit:** HTML, PHP, CSS, SQL
+- 😄 **Pronouns:** She/They - Ela/Dela
+- ⚡ **Fun fact:** I love playing D&D and video games, in my free time i draw some things;
+- ⚡ **Fun fact:** My favourite video game is Baldur's Gate 3.
